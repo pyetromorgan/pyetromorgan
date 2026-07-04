@@ -1,11 +1,11 @@
 # Olá, eu sou o Pyetro 
 
-## 🧠 Sobre Mim
+##  Sobre Mim
 Sou um desenvolvedor focado em **Back-End**, apaixonado por arquitetura de software, construção de APIs robustas e resolução de problemas complexos. Estou sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
-- ⚙️ Desenvolvendo soluções escaláveis e eficientes.
-- 🚀 Focado em escrever código limpo e de alta performance.
-- 📫 Como me encontrar: https://www.linkedin.com/in/pyetro-morgan-966bb0341/ || pmorgan.dev@gmail.com
+-  Desenvolvendo soluções escaláveis e eficientes.
+-  Focado em escrever código limpo e de alta performance.
+-  Como me encontrar: https://www.linkedin.com/in/pyetro-morgan-966bb0341/ || pmorgan.dev@gmail.com
 
 ---
 
@@ -16,9 +16,3 @@ Sou um desenvolvedor focado em **Back-End**, apaixonado por arquitetura de softw
 
 ### Back-End & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-### 📊 Estatísticas
-
-![Status do GitHub de Pyetro](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
