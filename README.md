@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Pyetro 
 
-<!--
-**pyetromorgan/pyetromorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Sobre Mim
+Sou um desenvolvedor focado em **Back-End**, apaixonado por arquitetura de software, construção de APIs robustas e resolução de problemas complexos. Estou sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
-Here are some ideas to get you started:
+- ⚙️ Desenvolvendo soluções escaláveis e eficientes.
+- 🚀 Focado em escrever código limpo e de alta performance.
+- 📫 Como me encontrar: https://www.linkedin.com/in/pyetro-morgan-966bb0341/ || pmorgan.dev@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Linguagens de Programação
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Back-End & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+
+![Status do GitHub de Pyetro](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
