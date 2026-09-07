@@ -18,3 +18,34 @@ I'm a **Back-End Developer** passionate about software architecture, building ro
 
 ### Back-End & Runtimes
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+<p align="center">
+  <!-- BANNER PRINCIPAL -->
+  <img src="LINK_DO_SEU_BANNER.gif" alt="Pyetro Morgan Banner" width="100%">
+</p>
+
+<br>
+
+<!-- CARD SOBRE MIM / STATUS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" alt="Estatísticas do GitHub" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" alt="Linguagens mais usadas" width="48%">
+</div>
+
+<br>
+
+<!-- CARD DA TECH STACK (Usando Tabela Transparente) -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#0D1117">
+      <h3>Tech Stack & Ferramentas</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
