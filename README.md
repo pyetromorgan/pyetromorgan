@@ -1,6 +1,8 @@
-# Hi, I'm Pyetro 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76543764-0240-4d30-b967-66b71e2c4617" alt="Pyetro Morgan Banner" width="800" height="200">
+</p>
 
-## About Me
+## Sobre mim
 I'm a **Back-End Developer** passionate about software architecture, building robust APIs, and solving complex problems. I'm always looking to learn new technologies and software development best practices.
 
 - Developing scalable and efficient solutions.
