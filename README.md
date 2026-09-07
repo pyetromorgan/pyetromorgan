@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/76543764-0240-4d30-b967-66b71e2c4617" alt="Pyetro Morgan Banner" width="800" height="200">
+  <img src="https://github.com/user-attachments/assets/c56d338e-1726-495c-b39e-351b4433a5ad" alt="Pyetro Morgan Banner" width="800" height="200">
 </p>
 
 ## Sobre mim
@@ -20,4 +20,4 @@ I'm a **Back-End Developer** passionate about software architecture, building ro
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-<img width="800" height="200" alt="IMG_2199" src="https://github.com/user-attachments/assets/fedb1277-df80-46b7-8e8b-a57800e9bf69" />
+
